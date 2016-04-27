@@ -1,0 +1,2 @@
+# ansible_managed 
+ansible-001   ansible_ssh_host=146.185.160.250 droplet_id=14183355
